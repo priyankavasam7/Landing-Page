@@ -1,0 +1,111 @@
+*{
+    font-family: 'Crimson Text', serif;
+    margin: 0;
+}
+.headerbx{
+    width: auto;
+    height: 75px;
+    background-color: #070D59;
+    color: white;
+    font-size:40px ;
+    font-weight:550;
+}
+.headerbx p{
+    padding: 1% ;
+}
+.headerbx img{
+    padding: 1% 2% 0;
+    float: left;
+    width: auto;
+    height:70px;
+}
+.imagebx{
+    color: #070D59;
+    position: relative;
+}
+.imagebx h1{
+    font-size: 50px;
+    text-transform:uppercase;
+    position: absolute;
+    right: 3%;
+    top: 15%;
+}
+.imagebx img{
+    object-fit: cover;
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+.quotebx{
+    margin: 0;
+    padding: 5%;
+    background-color:#CEDDEF;
+    color: #070D59;
+    font-size: 50px;
+    text-align: center;
+}
+
+.featuresbx{
+    text-align: center;
+    background-color: #5893D4;
+    color: #070D59;
+    font-size: 25px;
+    display: flex;
+    width: auto;
+}
+.fbox{
+    padding: 4%;
+}
+.fbox img{
+    width: 100px;
+    height: auto;
+}
+h4{
+    text-transform: uppercase;
+    color: white;
+}
+
+.footerbx{
+    display: flex;
+    background-color: #070D59;
+    color: white;
+    padding: 3% 5%;
+}
+.social{
+    margin:0;
+    width: 800px;
+}
+.social img{
+    margin-left: 5%;
+}
+.contact{
+    display: flex;
+    margin-left: 15%;
+}
+.contact img{
+    margin-right: 5%;
+}
+
+.footerbx h3{
+    padding-bottom: 10%;
+}
+.aluminibx{
+    background-color: #CEDDEF;
+    height: 500px;
+}
+.carousel-inner img{
+    float: left;
+    position: relative;
+    object-fit: contain;
+    max-width: 20%;
+    height: auto;
+    border-radius: 100%;
+    margin: 6% 15%;
+    margin-right: 10%;
+}
+.review{
+    color: #070D59;
+    font-size: 30px;
+    margin: 10%;
+
+}
